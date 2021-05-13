@@ -857,7 +857,8 @@ footer .contents p{
    }
     .help-contents .row{
         max-width: 600px;
-        align-items: end;
+/*         align-items: end; */
+        align-items: baseline;
     }
     .help-contents .row .col-sm-4{
         max-width: 17vw;
